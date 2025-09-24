@@ -1,0 +1,101 @@
+Order Date,Category,Sub-Category,Sales,Profit,Region
+2022-01-01,Furniture,Chairs,371,-138,East
+2022-01-02,Office Supplies,Binders,749,220,West
+2022-01-03,Technology,Phones,613,199,Central
+2022-01-04,Furniture,Chairs,401,86,South
+2022-01-05,Office Supplies,Binders,157,283,East
+2022-01-06,Technology,Phones,150,-185,West
+2022-01-07,Furniture,Chairs,569,-77,Central
+2022-01-08,Office Supplies,Binders,567,-86,South
+2022-01-09,Technology,Phones,687,169,East
+2022-01-10,Furniture,Chairs,745,291,West
+2022-01-11,Office Supplies,Binders,976,154,Central
+2022-01-12,Technology,Phones,938,240,South
+2022-01-13,Furniture,Chairs,674,86,East
+2022-01-14,Office Supplies,Binders,127,-127,West
+2022-01-15,Technology,Phones,914,112,Central
+2022-01-16,Furniture,Chairs,65,259,South
+2022-01-17,Office Supplies,Binders,542,-189,East
+2022-01-18,Technology,Phones,826,-160,West
+2022-01-19,Furniture,Chairs,51,-119,Central
+2022-01-20,Office Supplies,Binders,954,222,South
+2022-01-21,Technology,Phones,706,-154,East
+2022-01-22,Furniture,Chairs,740,140,West
+2022-01-23,Office Supplies,Binders,970,209,Central
+2022-01-24,Technology,Phones,886,185,South
+2022-01-25,Furniture,Chairs,935,9,East
+2022-01-26,Office Supplies,Binders,124,50,West
+2022-01-27,Technology,Phones,909,267,Central
+2022-01-28,Furniture,Chairs,502,107,South
+2022-01-29,Office Supplies,Binders,942,195,East
+2022-01-30,Technology,Phones,736,114,West
+2022-01-31,Furniture,Chairs,896,-147,Central
+2022-02-01,Office Supplies,Binders,776,-160,South
+2022-02-02,Technology,Phones,848,64,East
+2022-02-03,Furniture,Chairs,736,-77,West
+2022-02-04,Office Supplies,Binders,615,245,Central
+2022-02-05,Technology,Phones,924,263,South
+2022-02-06,Furniture,Chairs,392,-126,East
+2022-02-07,Office Supplies,Binders,850,-130,West
+2022-02-08,Technology,Phones,406,-42,Central
+2022-02-09,Furniture,Chairs,805,254,South
+2022-02-10,Office Supplies,Binders,241,274,East
+2022-02-11,Technology,Phones,652,58,West
+2022-02-12,Furniture,Chairs,379,133,Central
+2022-02-13,Office Supplies,Binders,360,160,South
+2022-02-14,Technology,Phones,91,-42,East
+2022-02-15,Furniture,Chairs,611,234,West
+2022-02-16,Office Supplies,Binders,354,46,Central
+2022-02-17,Technology,Phones,864,-48,South
+2022-02-18,Furniture,Chairs,126,256,East
+2022-02-19,Office Supplies,Binders,516,-2,West
+2022-02-20,Technology,Phones,95,253,Central
+2022-02-21,Furniture,Chairs,561,-100,South
+2022-02-22,Office Supplies,Binders,525,112,East
+2022-02-23,Technology,Phones,680,-93,West
+2022-02-24,Furniture,Chairs,839,58,Central
+2022-02-25,Office Supplies,Binders,355,-21,South
+2022-02-26,Technology,Phones,92,293,East
+2022-02-27,Furniture,Chairs,831,178,West
+2022-02-28,Office Supplies,Binders,823,-122,Central
+2022-03-01,Technology,Phones,822,-79,South
+2022-03-02,Furniture,Chairs,574,-183,East
+2022-03-03,Office Supplies,Binders,119,-17,West
+2022-03-04,Technology,Phones,261,100,Central
+2022-03-05,Furniture,Chairs,456,45,South
+2022-03-06,Office Supplies,Binders,518,261,East
+2022-03-07,Technology,Phones,499,35,West
+2022-03-08,Furniture,Chairs,896,117,Central
+2022-03-09,Office Supplies,Binders,818,-96,South
+2022-03-10,Technology,Phones,61,288,East
+2022-03-11,Furniture,Chairs,347,140,West
+2022-03-12,Office Supplies,Binders,97,153,Central
+2022-03-13,Technology,Phones,547,178,South
+2022-03-14,Furniture,Chairs,64,-87,East
+2022-03-15,Office Supplies,Binders,880,-79,West
+2022-03-16,Technology,Phones,964,218,Central
+2022-03-17,Furniture,Chairs,328,18,South
+2022-03-18,Office Supplies,Binders,157,-53,East
+2022-03-19,Technology,Phones,566,39,West
+2022-03-20,Furniture,Chairs,576,-110,Central
+2022-03-21,Office Supplies,Binders,723,90,South
+2022-03-22,Technology,Phones,538,102,East
+2022-03-23,Furniture,Chairs,248,-188,West
+2022-03-24,Office Supplies,Binders,666,57,Central
+2022-03-25,Technology,Phones,258,198,South
+2022-03-26,Furniture,Chairs,743,140,East
+2022-03-27,Office Supplies,Binders,294,118,West
+2022-03-28,Technology,Phones,204,92,Central
+2022-03-29,Furniture,Chairs,681,80,South
+2022-03-30,Office Supplies,Binders,691,-7,East
+2022-03-31,Technology,Phones,699,67,West
+2022-04-01,Furniture,Chairs,264,158,Central
+2022-04-02,Office Supplies,Binders,565,229,South
+2022-04-03,Technology,Phones,989,-26,East
+2022-04-04,Furniture,Chairs,138,-38,West
+2022-04-05,Office Supplies,Binders,529,150,Central
+2022-04-06,Technology,Phones,654,-112,South
+2022-04-07,Furniture,Chairs,981,-189,East
+2022-04-08,Office Supplies,Binders,391,-183,West
+2022-04-09,Technology,Phones,306,65,Central
+2022-04-10,Furniture,Chairs,640,283,South
